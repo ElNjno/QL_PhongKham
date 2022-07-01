@@ -1,0 +1,58 @@
+C:\Users\ATC\Desktop\DoAn_Elnino\DoAn_Elnino\bin\Debug\DoAn_Elnino.exe.config
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\bin\Debug\DoAn_Elnino.exe.config
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\bin\Debug\DoAn_Elnino.exe
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\bin\Debug\DoAn_Elnino.pdb
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmChiTietDichVu.resources
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmChiTietToaThuoc.resources
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmDichVu.resources
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmDuocPham.resources
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmNhanVien.resources
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmBenhAn.resources
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmBenhNhan.resources
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmShowLuong.resources
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmXuatHoaDon.resources
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmXuatThongTinXetNghiem.resources
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.Properties.Resources.resources
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.csproj.GenerateResource.Cache
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.exe
+D:\Nino\HUFI\.Net\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.pdb
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\bin\Debug\DoAn_Elnino.exe.config
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\bin\Debug\DoAn_Elnino.exe
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\bin\Debug\DoAn_Elnino.pdb
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.csprojResolveAssemblyReference.cache
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmChiTietDichVu.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmChiTietToaThuoc.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmDangNhap.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmDichVu.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmDuocPham.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmNhanVien.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmTrangChu.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmBenhAn.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmBenhNhan.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmShowLuong.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmXuatHoaDon.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmXuatThongTinXetNghiem.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.Properties.Resources.resources
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.csproj.GenerateResource.Cache
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.exe
+D:\Nino\HUFI\.Net\Backup\DoAn_Elnino\DoAn_Elnino\obj\Debug\DoAn_Elnino.pdb
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\bin\Debug\DoAn_Elnino.exe.config
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.exe
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.pdb
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\bin\Debug\DoAn_Elnino.exe
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\bin\Debug\DoAn_Elnino.pdb
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.csprojResolveAssemblyReference.cache
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmChiTietDichVu.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmChiTietToaThuoc.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmDangNhap.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmDichVu.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmDuocPham.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmNhanVien.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmTrangChu.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmBenhAn.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmBenhNhan.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmShowLuong.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmXuatHoaDon.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.frmXuatThongTinXetNghiem.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.Properties.Resources.resources
+D:\Nino\HUFI\Hoc Ky 1 năm 3 (2021 - 2022)\.Net\DoAn\NHOM4\Nhom4\DoAn_Elnino\obj\Debug\DoAn_Elnino.csproj.GenerateResource.Cache
